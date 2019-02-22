@@ -1,0 +1,12 @@
+{
+  "name": "HamBot",
+  "version": "1.0.0",
+  "description": "Basic DiscordBot to retrieve personal gaming statistics",
+  "main": "bot.js",
+  "author": "Hamzah Sarmad",
+  "dependencies": {
+    "discord.js-commando": "^0.10.0",
+    "discord.js-music": "^2.1.0",
+    "random-puppy": "^1.1.0"
+  }
+}

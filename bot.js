@@ -95,4 +95,4 @@ bot.on('message', (message) => {
 bot.registry.registerGroup('random', 'Random');
 bot.registry.registerDefaults();
 
-bot.login('NTQ2Nzc1NDc1MzQ3OTE0NzU2.D1DjAQ.gk2FelUeYOytfe2HfishfBB4NDc');
+bot.login('TOKEN');
